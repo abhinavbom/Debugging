@@ -2,11 +2,10 @@
 # Name:        Immunity debugger Exception Hook
 # Purpose:      The script throws out values of EIP,ESP when a crash exception occours
 #
-# Author:      darklord
+# Author:      @abhinavbom
 #
 # Created:     19/10/2014
-# Copyright:   (c) darklord 2014
-# Licence:     <your licence>
+# Licence:     MIT
 #-------------------------------------------------------------------------------
 
 import immlib
